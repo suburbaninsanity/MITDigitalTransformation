@@ -19,23 +19,22 @@ Identity is another concern since anonymity was a key aspect of the original dig
 
 While hurdles still exist, these issues are being directly addressed. The tipping point for social, commercial, financial, and Government acceptance already occurred and digital currency will ultimately be fully integrated into society.
 
-[^1] Course Materials
-[^2] https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf (Links to an external site.)
-[^3] https://www.forbes.com/forbes/1999/1101/6411390a.html?sh=48bcfde0715f (Links to an external site.)
-[^4] https://medium.com/swlh/top-3-cryptocurrencies-in-gaming-industry-to-buy-for-2020-21c0df190356 (Links to an external site.)
-[^5] https://www.thebalancesmb.com/the-sharing-economy-and-how-it-changes-industries-4172234#:~:text=The%20sharing%20economy%20is%20an,under%2Dutilized%20skill%20or%20asset (Links to an external site.).
-[^6] https://medium.com/@AxelUnlimited/the-new-role-of-the-cryptocurrency-in-the-sharing-economy-d73d84aeec44 (Links to an external site.)
-[^7] https://www.hindawi.com/journals/jat/2020/8854082/ (Links to an external site.)
-[^8] https://www.pymnts.com/cryptocurrency/2020/un-blockchain-expert-says-digital-cash-could-replace-bank-accounts/ (Links to an external site.)
-[^9] https://www.cnbc.com/2020/10/09/central-banks-lay-out-a-framework-for-digital-currencies.html (Links to an external site.)
-[^10] https://complyadvantage.com/knowledgebase/crypto-regulations/cryptocurrency-regulations-united-states/#:~:text=Cryptocurrency%20Regulations%20in%20the%20United%20States,-[^11] Cryptocurrencies%3A%20Not%20considered&text=The%20Financial%20Crimes%20Enforcement%20Network,value%20that%20substitutes%20for%20currency%E2%80%9D (Links to an external site.).
-[^12] https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/usa (Links to an external site.)
-[^13] https://www.loc.gov/law/help/cryptocurrency/world-survey.php (Links to an external site.)
-[^14] https://news.bitcoin.com/us-states-unified-regulation-cryptocurrency/ (Links to an external site.)
-[^15] https://www.trtworld.com/magazine/states-sovereignty-and-the-brave-new-world-of-cryptocurrencies-38793 (Links to an external site.)
+[^1]: Course Materials
+[^2]: https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf (Links to an external site.)
+[^3]: https://www.forbes.com/forbes/1999/1101/6411390a.html?sh=48bcfde0715f (Links to an external site.)
+[^4]: https://medium.com/swlh/top-3-cryptocurrencies-in-gaming-industry-to-buy-for-2020-21c0df190356 (Links to an external site.)
+[^5]: https://www.thebalancesmb.com/the-sharing-economy-and-how-it-changes-industries-4172234#:~:text=The%20sharing%20economy%20is%20an,under%2Dutilized%20skill%20or%20asset (Links to an external site.).
+[^6]: https://www.hindawi.com/journals/jat/2020/8854082/ (Links to an external site.)
+[^8]:https://www.pymnts.com/cryptocurrency/2020/un-blockchain-expert-says-digital-cash-could-replace-bank-accounts/ (Links to an external site.)
+[^9]: https://www.cnbc.com/2020/10/09/central-banks-lay-out-a-framework-for-digital-currencies.html (Links to an external site.)
+[^10]: https://complyadvantage.com/knowledgebase/crypto-regulations/cryptocurrency-regulations-united-states/#:~:text=Cryptocurrency%20Regulations%20in%20the%20United%20States,-[^11]: Cryptocurrencies%3A%20Not%20considered&text=The%20Financial%20Crimes%20Enforcement%20Network,value%20that%20substitutes%20for%20currency%E2%80%9D (Links to an external site.).
+[^12]: https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/usa (Links to an external site.)
+[^13]: https://www.loc.gov/law/help/cryptocurrency/world-survey.php (Links to an external site.)
+[^14]: https://news.bitcoin.com/us-states-unified-regulation-cryptocurrency/ (Links to an external site.)
+[^15]: https://www.trtworld.com/magazine/states-sovereignty-and-the-brave-new-world-of-cryptocurrencies-38793 (Links to an external site.)
 https://hackernoon.com/privacy-coins-vs-nation-state-crypto-and-the-war-for-the-soul-of-the-world-rl413bga
 
 # Industries Being Affected by Blockchain Technology - Section B
 An interesting use of blockchain is the tracking of trust in the food supply.  IBM established "Food Trust" to track items through out the food supply chain.  This has the potential to track every step in the food production process from where and when an item was grown, who picked it, where/when it was processed, and where/when it was delivered.  In addition to increased visibility for suppliers and distributors in the management of the supply chain, consumers can also scan a QR code and get the same level of fidelity.  In essence, the consumer can trust that an item is truly organic, know how fresh an item is, or if an item was produced humanely.  Another benefit to society includes the management of food recalls in the event E-Coli is discovered. This has the potential to add significant value to everyone in our food supply chain.
 
-[^1] https://www.protocol.com/ibm-blockchain-supply-produce-coffee
+[^articlenote]: https://www.protocol.com/ibm-blockchain-supply-produce-coffee
